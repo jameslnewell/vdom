@@ -1,0 +1,7 @@
+{
+  "name": "@jameslnewell/vdom",
+  "version": "0.0.1",
+  "scripts": {
+    "example.toDOM": "watchify example\\toDOM.js -o example\\build.js"
+  }
+}
